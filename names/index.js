@@ -1,7 +1,7 @@
 let nameslist = require("../country/state/city/index");
-let function = require("../utilities/utils/index");
+let function1 = require("../utilities/utils/index");
 
 let getPeopleInCity=(nameslist)=>{
-    return function(namesList)
+    return function1(namesList)
 }
 module.exports=getPeopleInCity;
